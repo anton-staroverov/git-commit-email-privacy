@@ -24,7 +24,7 @@
 # --------------------------------------------------------------------
 
 # --- GitHub ---
-# https://docs.github.com/en/account-and-profile/how-tos/email-preferences/setting-your-commit-email-address#setting-your-commit-email-address-on-github
+# https://docs.github.com/en/account-and-profile/how-tos/email-preferences/setting-your-commit-email-address
 [includeIf "hasconfig:remote.*.url:**/*github.com/**"]
     [user]
         email = YOUR_GITHUB_ID+USERNAME@users.noreply.github.com
