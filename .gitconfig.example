@@ -4,13 +4,11 @@
 # To use this example:
 # 1. Save this file as ~/.gitconfig
 # 2. Replace all PLACE_HOLDER values (e.g., YOUR_FULL_NAME)
+# 3. Repeat for .gitconfig-github and .gitconfig-gitlab as necessary
 # ====================================================================
 
-# --------------------------------------------------------------------
-# BASE CONFIGURATION
-# --------------------------------------------------------------------
 [user]
-    # Set your default full name for all commits.
+    # Set your default name for all commits.
     name = YOUR_FULL_NAME
 
     # CRITICAL: Prevents accidental system email exposure if no
@@ -23,14 +21,8 @@
 # the repository (e.g., work vs. personal, or GitHub vs. GitLab, etc.)
 # --------------------------------------------------------------------
 
-# --- GitHub ---
-# https://docs.github.com/en/account-and-profile/how-tos/email-preferences/setting-your-commit-email-address
 [includeIf "hasconfig:remote.*.url:**/*github.com/**"]
-    [user]
-        email = YOUR_GITHUB_ID+USERNAME@users.noreply.github.com
+    path = .gitconfig-github
 
-# --- GitLab ---
-# https://docs.gitlab.com/user/profile/#use-an-automatically-generated-private-commit-email
 [includeIf "hasconfig:remote.*.url:**/*gitlab.com/**"]
-    [user]
-        email = YOUR_GITLAB_ID-USERNAME@users.noreply.gitlab.com
+    path = .gitconfig-gitlab
