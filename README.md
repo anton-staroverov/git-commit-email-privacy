@@ -107,3 +107,9 @@ https://www.reddit.com/r/gitlab/comments/1pedw0w/setandforget_git_privacy_in_5_m
 # Credits
 
 https://stackoverflow.com/a/74012889/5034198
+
+---
+
+_**UPD:** had to split the `.gitconfig` into multiple files to avoid issues with `[includeIf]`, as explained in https://stackoverflow.com/a/74012889/5034198_
+
+_**UPD#2:** published https://github.com/anton-staroverov/git-commit-email-privacy_
