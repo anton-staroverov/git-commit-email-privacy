@@ -20,10 +20,10 @@ You'll need the following configuration files. Replace all `PLACE_HOLDER` values
 
 ```ini
 # ====================================================================
-# Global Git Configuration (Usually ~/.gitconfig)
+# Global Git Configuration
 #
 # To use this example:
-# 1. Save this file as ~/.gitconfig
+# 1. Save this file as ~/.gitconfig (most common location)
 # 2. Replace all PLACE_HOLDER values (e.g., YOUR_FULL_NAME)
 # 3. Repeat for .gitconfig-github and .gitconfig-gitlab as necessary
 # ====================================================================
