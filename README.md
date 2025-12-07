@@ -16,6 +16,8 @@ You'll need the following configuration files. Replace all `PLACE_HOLDER` values
 
 ## `.gitconfig` (Global Git Configuration)
 
+<!-- GITCONFIG_EXAMPLE_START -->
+
 ```ini
 # ====================================================================
 # Global Git Configuration (Usually ~/.gitconfig)
@@ -46,7 +48,11 @@ You'll need the following configuration files. Replace all `PLACE_HOLDER` values
     path = .gitconfig-gitlab
 ```
 
+<!-- GITCONFIG_EXAMPLE_END -->
+
 ## `.gitconfig-github` (GitHub-Specific Configuration)
+
+<!-- GITCONFIG_GITHUB_START -->
 
 ```ini
 # ====================================================================
@@ -62,7 +68,11 @@ You'll need the following configuration files. Replace all `PLACE_HOLDER` values
     email = YOUR_GITHUB_ID+USERNAME@users.noreply.github.com
 ```
 
+<!-- GITCONFIG_GITHUB_END -->
+
 ## `.gitconfig-gitlab` (GitLab-Specific Configuration)
+
+<!-- GITCONFIG_GITLAB_START -->
 
 ```ini
 # ====================================================================
@@ -77,6 +87,8 @@ You'll need the following configuration files. Replace all `PLACE_HOLDER` values
 [user]
     email = YOUR_GITLAB_ID-USERNAME@users.noreply.gitlab.com
 ```
+
+<!-- GITCONFIG_GITLAB_END -->
 
 # How to Verify
 
