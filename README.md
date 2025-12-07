@@ -94,7 +94,7 @@ You'll need the following configuration files. Replace all `PLACE_HOLDER` values
 1. Clone a repository from GitHub/GitLab.
 2. Run `git config user.email`. It will show your respective GitHub/GitLab no-reply email.
 
-This simple, single-file solution ensures your privacy is protected and your commits are correctly attributed, regardless of which hosting platform you're working on.
+This simple solution ensures your privacy is protected and your commits are correctly attributed, regardless of which hosting platform you're working on.
 
 Shouldn't this be the default configuration for every developer?
 
