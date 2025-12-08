@@ -112,6 +112,6 @@ https://stackoverflow.com/a/74012889/5034198
 
 ---
 
-_**UPD:** had to split the `.gitconfig` into multiple files to avoid issues with `[includeIf]`, as explained in https://stackoverflow.com/a/74012889/5034198_
+_**UPD:** Had to split the `.gitconfig` into multiple files to avoid issues with `[includeIf]`, as explained in https://stackoverflow.com/a/74012889/5034198_
 
-_**UPD#2:** published https://github.com/anton-staroverov/git-commit-email-privacy_
+_**UPD#2:** The most up-to-date config version is now here: https://github.com/anton-staroverov/git-commit-email-privacy_
