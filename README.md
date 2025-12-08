@@ -1,4 +1,4 @@
-# Git commit email privacy in 5 minutes:<br> <sub>automatic no-reply email, `useConfigOnly`, and conditional `includeIf`</sub>
+# Git Commit Email Privacy in 5 Minutes:<br> <sub>automatic no-reply email, `useConfigOnly`, and conditional `includeIf`</sub>
 
 <!-- _**UPD:** The most up-to-date config version is now here: https://github.com/anton-staroverov/git-commit-email-privacy_
 
