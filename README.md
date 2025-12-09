@@ -68,7 +68,7 @@ You'll need the following configuration files. Replace all `PLACE_HOLDER` values
 # GitHub-specific Git configuration
 #
 # To use this example:
-# 1. Get your unique GitHub commit email: https://docs.github.com/en/account-and-profile/how-tos/email-preferences/setting-your-commit-email-address
+# 1. Get your unique GitHub commit email: https://github.com/settings/emails#toggle_visibility_label
 # 2. Copy this file next to your `~/.gitconfig` and replace email below
 # ====================================================================
 
