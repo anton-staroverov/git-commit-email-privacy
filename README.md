@@ -87,7 +87,7 @@ You'll need the following configuration files. Replace all `PLACE_HOLDER` values
 # GitLab-specific Git configuration
 #
 # To use this example:
-# 1. Get your unique GitLab commit email: https://docs.gitlab.com/user/profile/#use-an-automatically-generated-private-commit-email
+# 1. Get your unique GitLab commit email: https://gitlab.com/-/user_settings/profile#user_public_email
 # 2. Copy this file next to your `~/.gitconfig` and replace email below
 # ====================================================================
 
