@@ -6,7 +6,8 @@ on:
       - '.gitconfig.example'
       - '.gitconfig-github'
       - '.gitconfig-gitlab'
-      - '.github/workflows/update-readme.yml'
+      - 'README.md'
+      - '.github/workflows/code-embedder.yml'
 
 jobs:
   code-embedder:
