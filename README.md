@@ -1,6 +1,8 @@
 # Git Commit Email Privacy in 5 Minutes:<br> <sub>automatic no-reply email, `useConfigOnly`, and conditional `includeIf`</sub>
 
-<!--@r: _**UPD:** The most up-to-date config version is now here: https://github.com/anydigital/git-commit-email-privacy_ -->
+<!--@r: _**UPD:** The most up-to-date config version is now here: https://github.com/anydigital/git-commit-email-privacy_
+
+--- -->
 
 Exposing your commit email is easy; rewriting Git history is hard.
 
