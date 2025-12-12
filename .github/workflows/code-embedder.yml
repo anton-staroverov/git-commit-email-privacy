@@ -9,7 +9,7 @@ on:
       - '.github/workflows/update-readme.yml'
 
 jobs:
-  code_embedder:
+  code-embedder:
     runs-on: ubuntu-latest
     permissions:
       contents: write
