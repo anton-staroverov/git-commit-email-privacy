@@ -53,6 +53,7 @@ You'll need the following configuration files. Replace all `PLACE_HOLDER` values
 
 [includeIf "hasconfig:remote.*.url:**/*gitlab.com/**"]
     path = .gitconfig-gitlab
+
 ```
 
 ### `.gitconfig-github` (GitHub-Specific Configuration)
