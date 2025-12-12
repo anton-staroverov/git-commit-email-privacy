@@ -26,7 +26,7 @@ You'll need the following configuration files. Replace all `PLACE_HOLDER` values
 
 ```ini:.gitconfig.example
 # ====================================================================
-# Global Git Configuration
+# Global Git Configuration File
 #
 # To use this example:
 # 1. Save this file as ~/.gitconfig (most common location)
@@ -69,6 +69,7 @@ You'll need the following configuration files. Replace all `PLACE_HOLDER` values
 
 [user]
     email = YOUR_GITHUB_ID+USERNAME@users.noreply.github.com
+
 ```
 
 ### `.gitconfig-gitlab`
@@ -84,6 +85,7 @@ You'll need the following configuration files. Replace all `PLACE_HOLDER` values
 
 [user]
     email = YOUR_GITLAB_ID-USERNAME@users.noreply.gitlab.com
+
 ```
 
 ## How to Verify
