@@ -26,7 +26,7 @@ You'll need the following configuration files. Replace all `PLACE_HOLDER` values
 
 ```ini:.gitconfig.example
 # ====================================================================
-# Global Git Configuration File
+# Global Git Configuration
 #
 # To use this example:
 # 1. Save this file as ~/.gitconfig (most common location)
