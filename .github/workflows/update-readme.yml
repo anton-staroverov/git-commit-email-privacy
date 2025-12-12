@@ -3,11 +3,11 @@ name: Update README with Config Files
 on:
   push:
     paths:
+      - 'README.md'
       - '.gitconfig.example'
       - '.gitconfig-github'
       - '.gitconfig-gitlab'
-      - 'README.md'
-      - '.github/workflows/code-embedder.yml'
+      - '.github/workflows/update-readme.yml'
 
 jobs:
   code-embedder:
