@@ -101,12 +101,12 @@ Shouldn't this be the default configuration for every developer?
 
 ## Links
 
-https://any.digital/tricks/git-commit-email-privacy/
-https://www.reddit.com/r/git/comments/1pf94nt/how_to_avoid_exposing_your_commit_email_private/
+- https://any.digital/tricks/git-commit-email-privacy/
+- https://www.reddit.com/r/git/comments/1pf94nt/how_to_avoid_exposing_your_commit_email_private/
 
 ## Credits
 
-https://stackoverflow.com/a/74012889/5034198
+- https://stackoverflow.com/a/74012889/5034198
 
 ---
 
